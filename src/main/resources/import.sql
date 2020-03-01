@@ -1,0 +1,3 @@
+--delete from movie;
+--insert into movie values(1, 'The Matrix', '', '', '', '', '');
+--delete from movie;
